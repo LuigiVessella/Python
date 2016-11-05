@@ -7,7 +7,7 @@ termN=input("Inserisci il termine noto: ")
 if termX == 0 and termN ==0:
     print "L'equazione e' indeterminata.  "
 
-elif termX == 0 and termN !=0:
+elif termX == 0:
     print "L'equazione e' impossibile. "
 
 else:
